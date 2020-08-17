@@ -10,11 +10,11 @@ module.exports = {
   authorName: 'Billy Zhang',
   heading: 'Deadline Oriented Programmer',
   // social
-  socialLinks: [
+  Links: [
     {
       name: 'Resume',
       icon: 'profile',
-      url: 'https://resume.magicgh.xyz',
+      url: 'https://github.com/magicgh/resume#readme',
     },
     {
       name: 'Blog',

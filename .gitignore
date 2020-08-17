@@ -37,10 +37,10 @@ jspm_packages/
 # Output of 'npm pack'
 *.tgz
 
-# dotenv environment variable files
+# Dotenv environment variable files
 .env*
 
-# gatsby files
+# Gatsby files
 .cache/
 public/
 
@@ -54,3 +54,6 @@ yarn-error.log
 
 # Yarn Integrity file
 .yarn-integrity
+
+# VSCode files
+.vscode/

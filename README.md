@@ -23,6 +23,6 @@ npm run develop
 npm run build   
 ```
 
-### License
+## License
 [MIT License](https://mit-license.org/)  
 refer LICENSE file in this repository.

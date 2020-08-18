@@ -17,6 +17,9 @@ module.exports = {
         theme_color: config.manifestThemeColor,
         display: config.manifestDisplay,
         icon: config.manifestIcon, // This path is relative to the root of the site.
+        icon_options: {
+          purpose: `maskable`,
+        }
       },
     },
     'gatsby-plugin-sass',

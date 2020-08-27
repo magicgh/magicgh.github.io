@@ -1,4 +1,4 @@
-# Billy Zhang's Homepage
+# Magicgh's Homepage
 
 This is my personal homepage, using `Gatsby` to pre render, based on [gatsby-starter-identity](https://github.com/anubhavsrivastava/gatsby-starter-identity).
 

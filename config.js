@@ -1,13 +1,13 @@
 module.exports = {
-  siteTitle: 'Homepage | Billy Zhang', // <title>
-  manifestName: 'Billy Zhang\'s Homepage',
+  siteTitle: 'Homepage | Magicgh', // <title>
+  manifestName: 'Magicgh\'s Homepage',
   manifestShortName: 'Homepage', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/images/website-icon.png',
-  authorName: 'Billy Zhang',
+  authorName: 'Magicgh',
   heading: 'Deadline Oriented Programmer',
   // social
   Links: [

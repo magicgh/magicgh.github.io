@@ -8,11 +8,11 @@ This is my personal homepage, using `Gatsby` to pre render, based on [gatsby-sta
 ```sh
 git clone https://github.com/magicgh/magicgh.github.io.git
 
-npm install           
+yarn install           
 
-npm run develop     
+yarn develop     
 
-npm run build   
+yarn build   
 ```
 
 

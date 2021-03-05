@@ -17,14 +17,20 @@ module.exports = {
       url: 'https://github.com/magicgh/resume#readme',
     },
     {
-      name: 'Blog',
-      icon: 'pen-nib',
-      url: 'https://blog.magicgh.xyz',
-    },
-    {
       name: 'Gallery',
       icon: 'camera',
       url: 'https://gallery.magicgh.xyz',
     },
+    {
+      name: 'GitHub',
+      icon: 'github',
+      url: 'https://github.com/magicgh',
+    },
+    {
+      name: 'LinkedIn',
+      icon: 'linkedin',
+      url: 'https://www.linkedin.com/in/xuan-z/',
+    }
+
   ],
 };

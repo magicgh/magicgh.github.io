@@ -1,6 +1,7 @@
 {
   "name": "magicgh-homepage",
-  "version": "0.1.0",
+  "private": true,
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/magicgh/magicgh.github.io.git"
@@ -14,8 +15,7 @@
     "gatsby-plugin-manifest": "^2.3.1",
     "gatsby-plugin-offline": "^3.1.0",
     "gatsby-plugin-react-helmet": "^3.2.0",
-    "gatsby-plugin-sass": "^2.2.0",
-    "node-sass": "^4.13.1",
+    "gatsby-theme-minimalist": "^1.0.7",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1"
@@ -23,21 +23,15 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "npm run clean && gatsby build",
-    "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
     "serve": "gatsby serve",
     "clean": "rimraf .cache public",
     "format": "prettier --write '**/*.js'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1",
-    "prettier": "^1.17.0",
+    "prettier": "^2.3.2",
     "rimraf": "^3.0.2"
   },
-  "keywords": [
-    "gatsby",
-    "html5 up"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/magicgh/magicgh.github.io/issues"
